@@ -1,0 +1,1555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\HPEnvy\Documents\Differential_probe\Diff_probe.kicad_sch</source>
+    <date>21/01/2023 01:54:33</date>
+    <tool>Eeschema (6.0.4)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>4 Channel Differential High Voltage</title>
+        <company>David Molony Metastable Engineering</company>
+        <rev>R01</rev>
+        <date>2023-01-17</date>
+        <source>Diff_probe.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>C_10uF_Tant</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="LCSC">C7171</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8909e203-6a9d-4570-9e6b-6ee09635e4c0</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>C_100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83278a79-368d-4b00-bb62-b97c1bf16e10</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>C_10uF_Tant</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="LCSC">C7171</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ab487890-2ad5-491b-ace8-067c8a33b21d</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>C_10uF_Tant</value>
+      <footprint>Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A</footprint>
+      <fields>
+        <field name="LCSC">C7171</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="LCSC" value="C7171"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a55212b2-9523-4aab-b1a4-4d0847df2559</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>C_100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89237432-67d4-43a8-ba99-eb20aa01632f</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>C_47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1671"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f6d7125-8c11-4847-a979-814aad69a1e5</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>C_100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f0bd618-83fc-43ed-b3b4-fa27d6c1b9fe</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>C_100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C14663</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C14663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16a73d1f-f38d-49b1-ba69-2f15d96c4725</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>C_47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1671"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b902590-ad1e-485e-99b8-6abed5c51d7e</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>C_47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1671"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db9a6eba-9995-447d-ae48-548f94c4fdc6</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>C_47pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C1671</field>
+      </fields>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="LCSC" value="C1671"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e5d3e8b1-3e05-4c79-94c4-432630acc6ab</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>FerriteBead_Small</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C1017</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="LCSC" value="C1017"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3bc5fc70-dd5f-43a0-9c3d-2d2828437f02</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16bfcc71-81a0-42bf-93bc-38f665f9ba2e</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>TYPE-C-31-M-12</value>
+      <footprint>TYPE-C-31-M-12:HRO_TYPE-C-31-M-12</footprint>
+      <fields>
+        <field name="LCSC">C165948</field>
+        <field name="MANUFACTURER">HRO Electronics</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31mm</field>
+        <field name="PARTREV">A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12" description=""/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.31mm"/>
+      <property name="MANUFACTURER" value="HRO Electronics"/>
+      <property name="PARTREV" value="A"/>
+      <property name="LCSC" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>911c4940-ef61-4b08-b4b3-0befa838d2ee</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a37aa6bc-df52-4188-8df7-f7ba829e4094</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>21796e44-162c-4a19-897a-7bf1f26fe5c5</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x03_Male</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x03_Male" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e44d9c1-38c0-4119-8291-0183d1e02138</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bf8dfee-aa36-4bb9-94c3-794e85655284</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fdd04755-c010-4767-b629-9338ea7695b5</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd8e1a8f-7ba7-47f1-87ec-d13a13c1a0da</tstamps>
+    </comp>
+    <comp ref="JP4">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>668d7bc2-6621-4d9b-8e2c-24a3bc132a7a</tstamps>
+    </comp>
+    <comp ref="JP5">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5447e653-fe63-4fcd-81a0-63562a00690f</tstamps>
+    </comp>
+    <comp ref="JP6">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5af64366-8879-4369-aeb9-69c74c10e29e</tstamps>
+    </comp>
+    <comp ref="JP7">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7b35d71-acba-49c1-a0ab-ee1eda303593</tstamps>
+    </comp>
+    <comp ref="JP8">
+      <value>Jumper_2_Open</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Open" description="Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>658b4659-f186-4dc5-9dea-f381030ae440</tstamps>
+    </comp>
+    <comp ref="JP9">
+      <value>Jumper_3_Open</value>
+      <footprint>Jumper:SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_3_Open" description="Jumper, 3-pole, both open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e056255a-1a95-4a96-bbc4-3f8c35044e4a</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76cbd0cd-adaa-44cf-87de-243f674e3652</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c1ccc724-2014-461e-a791-e2a4dfb4f1d6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2dddd2aa-df28-4aeb-9026-71522388f087</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>06583f69-5c47-4e25-beaf-826897153829</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d8d629a-6303-43de-a40a-aaf8a451bbf3</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a611f2e0-cc19-4e87-a177-84514083c84a</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>531b2e49-b391-407b-adfd-664a1ff9410e</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcd35627-1dcb-49cd-8a8a-73c07bd8a8dc</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da030e29-c008-41e9-8643-7c6457325e19</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>R_47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23182</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5b82cc71-fb13-4575-bcbd-f8d9c76c048c</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>R_DNP</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>266e2245-0e5f-4d9f-9433-d138388c16ab</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef375cb7-ee58-4d9c-b851-7bf68443335a</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41f3de48-87d3-4882-b71d-fd91206d121a</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c8636d80-053a-429d-8c80-06aa8e2f1db9</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bd37977-08dc-414a-acdd-ecf1e37387a3</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83553146-8834-4c95-84bb-3ba2722494f0</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>663bf6ea-78b5-4a74-a8db-965cdbf9fd28</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b6090c9a-7502-4052-a3bf-ae88ba5c2366</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>R_47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23182</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef682e9d-23ee-4de7-8fe2-9cff9e6370e3</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>R_DNP</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a66a86cd-f9da-44ea-89c3-91f8655f3ca5</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>48fec992-b434-4b91-83ec-5df69115ef73</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2229349-7c38-4cc1-be3d-5f08f4940245</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1416fc50-16ca-4c5c-8bf8-01dcc81069ec</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b34c6f3-1eee-464c-8492-e43bdae1854c</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>12764738-b248-462f-a5e5-8617079b755a</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3dd2ab04-3dde-41a5-bcde-4f8659f19f7e</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20d38285-a039-422c-9584-20d9d15af410</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>R_1Mohm</value>
+      <footprint>Resistor_SMD:R_2512_6332Metric</footprint>
+      <fields>
+        <field name="LCSC">C966223</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C966223"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>790d72f6-8b8b-4d2f-8800-44357fdc0fff</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b84c3c12-5704-4247-8303-bfcb8e11e9ca</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24a362e7-4788-4ada-b827-f767dc02580c</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>015d3bb0-14e2-41c9-9efe-8b0783855231</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2ac23413-3dae-4953-8d27-22f5d4358cc4</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3c94e40a-a4bf-47bc-9ec5-4c3622b1ce67</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>R_10k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C25804</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C25804"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e187cc63-be03-4f4d-9160-6126622bed3a</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>88c6863d-a02d-4cdd-bd69-aeb43f0787ae</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>R_40k</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C3016445</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C3016445"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a0770a3-9305-4639-b603-95ceabbeac25</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>R_47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23182</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>57d22419-354d-4e3c-8057-af700e60d82b</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>R_47</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="LCSC">C23182</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C23182"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d77498e-8ffb-4aac-b872-8599cef516fc</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>R_DNP</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4cd8e304-3d0b-4f39-99ad-3a03b29e98b9</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>R_DNP</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>03601756-583a-45f1-ad1f-bf1285b7442c</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>R_100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>186ce13b-d847-4644-8663-0ba8ac9a0876</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>R_100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="LCSC">C17408</field>
+      </fields>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="LCSC" value="C17408"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dd0f02b8-9f15-4293-922c-dca51cca71ad</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adf72587-9dec-4dc7-8f09-5f70f121f786</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>903daac0-bda6-47ca-ab4d-f97511f643b6</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d64cd38c-8c1f-4a4b-8a42-b104a269486a</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>044844a7-677e-4814-a945-0433f2902254</tstamps>
+    </comp>
+    <comp ref="TP5">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f71946a2-b823-43b7-9520-6c0d2bdeba84</tstamps>
+    </comp>
+    <comp ref="TP6">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e0c4d704-dfd4-4574-9f10-f1cbb1de574f</tstamps>
+    </comp>
+    <comp ref="TP7">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b9326c2-baf4-45e8-918e-cfedbd7f7417</tstamps>
+    </comp>
+    <comp ref="TP8">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>49f1b93f-95f1-42b6-89b0-11dc95efa9ed</tstamps>
+    </comp>
+    <comp ref="TP9">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>060976b3-6a5a-4244-bf3f-ceaabe493e6c</tstamps>
+    </comp>
+    <comp ref="TP10">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>440a060b-7328-4ee9-94fd-9929f491071e</tstamps>
+    </comp>
+    <comp ref="TP11">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d33bb83-bb9f-47f9-a7f6-2b45d2c5a3e6</tstamps>
+    </comp>
+    <comp ref="TP12">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af505b54-cb92-49a0-b6a2-6571c9a1facf</tstamps>
+    </comp>
+    <comp ref="TP13">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1847e5c0-ff57-4fe2-aa97-f258e04dd617</tstamps>
+    </comp>
+    <comp ref="TP14">
+      <value>TestPoint</value>
+      <footprint>TestPoint:TestPoint_THTPad_2.5x2.5mm_Drill1.2mm</footprint>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a96bc5cb-94d2-486c-9603-5b515c8d403a</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>OPA2356xxD</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/opa2356.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C726663</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="OPA2356xxD" description="Dual High Speed CMOS Operational Amplifiers, SOIC-8"/>
+      <property name="LCSC" value="C726663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2c79306-b9b3-467c-82f9-11678106fff0 da6c341b-69c8-46c3-911f-9499ca6fb91f 97aadb15-ffc8-419e-91a3-9827b010442d</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>OPA2356xxD</value>
+      <footprint>Package_SO:SO-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/opa2356.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C726663</field>
+      </fields>
+      <libsource lib="Amplifier_Operational" part="OPA2356xxD" description="Dual High Speed CMOS Operational Amplifiers, SOIC-8"/>
+      <property name="LCSC" value="C726663"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7f990308-4818-4d3f-ba17-6c77c2ab4cd5 b29125e5-7ae0-4268-a634-c1bfe13e93a4 036a66c6-d020-4e2e-a4f9-cfaafab7849d</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>XC6206PxxxMR</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://www.torexsemi.com/file/xc6206/XC6206.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C545580</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="XC6206PxxxMR" description="Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23"/>
+      <property name="LCSC" value="C545580"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Diff_probe.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1ca03430-7fdf-4982-a56a-2f493eeda440</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Amplifier_Operational" part="OPA2356xxD">
+      <description>Dual High Speed CMOS Operational Amplifiers, SOIC-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/opa2356.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TO*99*</fp>
+        <fp>OnSemi*Micro8*</fp>
+        <fp>TSSOP*3x3mm*P0.65mm*</fp>
+        <fp>TSSOP*4.4x3mm*P0.65mm*</fp>
+        <fp>MSOP*3x3mm*P0.65mm*</fp>
+        <fp>SSOP*3.9x4.9mm*P0.635mm*</fp>
+        <fp>LFCSP*2x2mm*P0.5mm*</fp>
+        <fp>*SIP*</fp>
+        <fp>SOIC*5.3x6.2mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">OPA2356xxD</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/opa2356.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x03_Male">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Open">
+      <description>Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_3_Open">
+      <description>Jumper, 3-pole, both open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*3Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_3_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="C" type="passive"/>
+        <pin num="3" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="XC6206PxxxMR">
+      <description>Positive 60-250mA Low Dropout Regulator, Fixed Output, SOT-23</description>
+      <docs>https://www.torexsemi.com/file/xc6206/XC6206.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">XC6206PxxxMR</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+        <field name="Datasheet">https://www.torexsemi.com/file/xc6206/XC6206.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-M-12</field>
+        <field name="Footprint">HRO_TYPE-C-31-M-12</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.31mm</field>
+        <field name="MANUFACTURER">HRO Electronics</field>
+        <field name="PARTREV">A</field>
+      </fields>
+      <pins>
+        <pin num="A1B12" name="GND" type="power_in"/>
+        <pin num="A4B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1A12" name="GND" type="power_in"/>
+        <pin num="B4A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Amplifier_Operational">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Amplifier_Operational.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+    <library logical="TYPE-C-31-M-12">
+      <uri>C:\Users\HPEnvy\Documents\Differential_probe/TYPE-C-31-M-12/TYPE-C-31-M-12.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+2V5">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP5" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="JP9" pin="2" pinfunction="C" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="+5V">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R41" pin="1" pintype="passive"/>
+      <node ref="TP7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U2" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="A1B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="B1A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J2" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+      <node ref="R39" pin="2" pintype="passive"/>
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="TP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U2" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="4" name="Net-(FB1-Pad1)">
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="J2" pin="A4B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J2" pin="B4A9" pinfunction="VBUS" pintype="power_in"/>
+    </net>
+    <net code="5" name="Net-(JP1-Pad2)">
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(JP2-Pad1)">
+      <node ref="JP2" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(JP2-Pad2)">
+      <node ref="JP2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+    </net>
+    <net code="8" name="Net-(JP3-Pad2)">
+      <node ref="JP3" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(JP4-Pad1)">
+      <node ref="JP4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(JP4-Pad2)">
+      <node ref="JP4" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="TP6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+    </net>
+    <net code="11" name="Net-(JP5-Pad2)">
+      <node ref="JP5" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(JP6-Pad2)">
+      <node ref="JP6" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(JP7-Pad1)">
+      <node ref="JP7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(JP7-Pad2)">
+      <node ref="JP7" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="TP13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="15" name="Net-(JP8-Pad1)">
+      <node ref="JP8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R34" pin="2" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(JP8-Pad2)">
+      <node ref="JP8" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="TP14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="17" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="19" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(R4-Pad1)">
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="24" name="Net-(R12-Pad1)">
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="TP5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(R13-Pad1)">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="28" name="Net-(R14-Pad2)">
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(R21-Pad1)">
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="TP9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R25" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(R22-Pad1)">
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="TP10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(R22-Pad2)">
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(R23-Pad1)">
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="TP11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(R23-Pad2)">
+      <node ref="R23" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(R24-Pad1)">
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="TP12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(R24-Pad2)">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(R26-Pad2)">
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(R28-Pad2)">
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R34" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(R41-Pad2)">
+      <node ref="JP9" pin="3" pinfunction="B" pintype="passive"/>
+      <node ref="R41" pin="2" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(U3-Pad2)">
+      <node ref="JP9" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="43" name="Output1">
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="44" name="Output2">
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+    </net>
+    <net code="45" name="Output3">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+      <node ref="R39" pin="1" pintype="passive"/>
+    </net>
+    <net code="46" name="Output4">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+    </net>
+    <net code="47" name="unconnected-(J2-PadA5)">
+      <node ref="J2" pin="A5" pinfunction="CC1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(J2-PadA6)">
+      <node ref="J2" pin="A6" pinfunction="DP1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(J2-PadA7)">
+      <node ref="J2" pin="A7" pinfunction="DN1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(J2-PadA8)">
+      <node ref="J2" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J2-PadB5)">
+      <node ref="J2" pin="B5" pinfunction="CC2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(J2-PadB6)">
+      <node ref="J2" pin="B6" pinfunction="DP2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(J2-PadB7)">
+      <node ref="J2" pin="B7" pinfunction="DN2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="54" name="unconnected-(J2-PadB8)">
+      <node ref="J2" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
